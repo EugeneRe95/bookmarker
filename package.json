@@ -1,0 +1,16 @@
+{
+  "name": "bookmarker",
+  "version": "1.0.0",
+  "description": "Bookmarker",
+  "main": "index.js",
+  "homepage": "https://EugeneRe95.github.io/bookmarker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
